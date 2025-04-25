@@ -1,7 +1,5 @@
-# Red teaming LLM applications
+# Laboratorio 7 - Red teaming LLM applications
 
-[View the full documentation (PDF)](./Lab7-security-ds.pdf)
+### José Daniel Gómez Cabrera 21429
 
-<embed src="./Lab7-security-ds.pdf" type="application/pdf" width="100%" height="600px" />
-
-[![PDF Thumbnail](./path/to/thumbnail.png)](./Lab7-security-ds.pdf)
+[El reporte contiene los detalles de porcentaje del curso (PDF)](./Lab7-security-ds.pdf)
